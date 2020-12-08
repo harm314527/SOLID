@@ -1,0 +1,13 @@
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.csprojAssemblyReference.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.AssemblyInfoInputs.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.AssemblyInfo.cs
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.csproj.CoreCompileInputs.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.exe
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.deps.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.runtimeconfig.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.runtimeconfig.dev.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.dll
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\bin\Debug\netcoreapp3.1\OpenClosePrincipleWrong.pdb
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.dll
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.pdb
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenClosePrincipleWrong\obj\Debug\netcoreapp3.1\OpenClosePrincipleWrong.genruntimeconfig.cache

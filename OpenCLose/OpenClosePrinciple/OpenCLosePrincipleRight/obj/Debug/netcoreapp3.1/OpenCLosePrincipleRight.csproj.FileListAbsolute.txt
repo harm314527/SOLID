@@ -1,0 +1,13 @@
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.exe
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.deps.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.runtimeconfig.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.runtimeconfig.dev.json
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.dll
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\bin\Debug\netcoreapp3.1\OpenCLosePrincipleRight.pdb
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.csprojAssemblyReference.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.AssemblyInfoInputs.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.AssemblyInfo.cs
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.csproj.CoreCompileInputs.cache
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.dll
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.pdb
+D:\Repositories\SOLID\OpenCLose\OpenClosePrinciple\OpenCLosePrincipleRight\obj\Debug\netcoreapp3.1\OpenCLosePrincipleRight.genruntimeconfig.cache
