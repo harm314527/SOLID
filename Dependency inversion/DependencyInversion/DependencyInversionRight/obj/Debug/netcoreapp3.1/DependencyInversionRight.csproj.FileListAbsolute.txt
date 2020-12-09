@@ -1,0 +1,13 @@
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.csprojAssemblyReference.cache
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.AssemblyInfoInputs.cache
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.AssemblyInfo.cs
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.csproj.CoreCompileInputs.cache
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.exe
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.deps.json
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.runtimeconfig.json
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.runtimeconfig.dev.json
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.dll
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\bin\Debug\netcoreapp3.1\DependencyInversionRight.pdb
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.dll
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.pdb
+D:\Repositories\SOLID\Dependency inversion\DependencyInversion\DependencyInversionRight\obj\Debug\netcoreapp3.1\DependencyInversionRight.genruntimeconfig.cache
