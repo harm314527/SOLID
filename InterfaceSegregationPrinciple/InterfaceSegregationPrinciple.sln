@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrincipleWrong", "InterfaceSegregationPrincipleWrong\InterfaceSegregationPrincipleWrong.csproj", "{B01A66D4-95AC-4F9C-A87B-1A937EC83EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrincipleRight", "InterfaceSegregationPrincipleRight\InterfaceSegregationPrincipleRight.csproj", "{C8B361CF-606B-49E5-97EE-49636B5A3C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01A66D4-95AC-4F9C-A87B-1A937EC83EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01A66D4-95AC-4F9C-A87B-1A937EC83EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01A66D4-95AC-4F9C-A87B-1A937EC83EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01A66D4-95AC-4F9C-A87B-1A937EC83EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B361CF-606B-49E5-97EE-49636B5A3C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B361CF-606B-49E5-97EE-49636B5A3C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B361CF-606B-49E5-97EE-49636B5A3C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B361CF-606B-49E5-97EE-49636B5A3C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A63F98-81AE-4227-B05C-27650BDD91C9}
+	EndGlobalSection
+EndGlobal
